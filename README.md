@@ -11,6 +11,7 @@ The implementation is based on PyTorch library and consists of:
 * Showcasing the prediction on examples and measuring time of prediction
 
 Requirements:
+
     pip install numpy
     pip install torch
     pip install Pillow
